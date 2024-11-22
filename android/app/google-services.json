@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "386554775899",
+    "firebase_url": "https://fire-98b6d-default-rtdb.firebaseio.com",
+    "project_id": "fire-98b6d",
+    "storage_bucket": "fire-98b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386554775899:android:3ba1c33b7ec6d9211df27e",
+        "android_client_info": {
+          "package_name": "com.example.post_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD91rc-zSKMtN9sEP_grXjnupTKd0OTzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
